@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HuyAK2108
 - 👀 I’m interested in embedded system
 - 🌱 I’m currently learning AI/Deep learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Embedded Field
 - 📫 How to reach me huyvugia2108@gmail.com
 
 <!---
